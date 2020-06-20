@@ -10,7 +10,7 @@
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/AWS.JPG)
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG)
+<p align="center">![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG)</p>
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)
 
