@@ -7,18 +7,32 @@
 
 **Screenshots of  Project :-**
 
+> AWS Management Console
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/AWS.JPG)
 
+
+> Selecting EC2 Instance from Console
+
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG)
 
+
+> Launching EC3 Instance
+
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)
+
+
+> Selecting OS for Server (Virtual Machine)
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/OS.JPG)
 
 
+> Connecting to Instance through RDP
+
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Capture.JPG)
 
+
+> EC2 Instance is terminated
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Terminated.JPG)
 
