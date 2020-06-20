@@ -8,4 +8,4 @@
 **Screenshots of  Project :-**
 
 
-![image](https://github.com/sanket9006/HACKJAIPUR/tree/master/Screenshots/AWS.JPG)
+![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/AWS.JPG)
