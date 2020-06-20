@@ -12,9 +12,13 @@
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/AWS.JPG)
 
 
+>
+>
 > Selecting EC2 Instance from Console
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG)
+
+
 
 
 > Launching EC3 Instance
