@@ -14,9 +14,11 @@
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)
 
+![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/OS.JPG)
+
+
+![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Capture.JPG)
+
+
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Terminated.JPG)
-
-
-
-
 
