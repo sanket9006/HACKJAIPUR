@@ -11,7 +11,7 @@
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/AWS.JPG)
 
-
+## <p align="center"> ......</p>
 
 > Selecting EC2 Instance from Console
 
@@ -24,16 +24,19 @@
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)
 
+## <p align="center"> ......</p>
 
 > Selecting OS for Server (Virtual Machine)
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/OS.JPG)
 
+## <p align="center"> ......</p>
 
 > Connecting to Instance through RDP
 
 ![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Capture.JPG)
 
+## <p align="center"> ......</p>
 
 > EC2 Instance is terminated
 
