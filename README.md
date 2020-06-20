@@ -8,7 +8,4 @@
 **Screenshots of  Project :-**
 
 
-
-![image](https://github.com/sanket9006/MishMash-Online-Hackathon-AR_Portal_For_Dr_and_Students/blob/master/Assets/Prefabs/1.PNG)
-
-![image](https://github.com/sanket9006/HACKJAIPUR/Screenshots/AWS Console.JPG)
+![image](https://github.com/sanket9006/HACKJAIPUR/AWS.JPG)
