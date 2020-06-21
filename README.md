@@ -61,6 +61,15 @@
 
 ## <p align="center"> ......</p>
 
+> Windows Instance Server
+
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/windows.png">
+</p>
+
+
+
 > EC2 Instance is terminated
 
 
