@@ -7,8 +7,9 @@
 
 **Steps for Creating EC2 Instance :-**
 
-
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/1.jpeg)
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/1.jpeg">
+</p>
 
 
 
