@@ -25,8 +25,10 @@
 
 > Selecting EC2 Instance from Console
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG)
 
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/EC2.JPG">
+</p>
 
 ## <p align="center"> ......</p>
 
