@@ -5,6 +5,14 @@
 
  [[ Link to Video of Demo Uploaded on Youtube of our Project   -  ( Click Here in Order to Watch Youtube Video of Demo )]](https://www.youtube.com/watch?v=d8DmsX_2ZAg)
 
+**Steps for Creating EC2 Instance :-**
+
+
+![image](https://github.com/sanket9006/HACKJAIPUR/1.jpeg)
+
+
+
+
 **Screenshots of  Project :-**
 
 > AWS Management Console
