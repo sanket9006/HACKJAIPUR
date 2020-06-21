@@ -44,11 +44,19 @@
 
 > Connecting to Instance through RDP
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Capture.JPG)
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Capture.JPG">
+</p>
+
 
 ## <p align="center"> ......</p>
 
 > EC2 Instance is terminated
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Terminated.JPG)
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Terminated.JPG">
+</p>
+
 
