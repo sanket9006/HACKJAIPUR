@@ -32,13 +32,20 @@
 
 > Launching EC3 Instance
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/Launch.JPG)">
+</p>
+
 
 ## <p align="center"> ......</p>
 
 > Selecting OS for Server (Virtual Machine)
 
-![image](https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/OS.JPG)
+<p align="center">
+ <img  src="https://github.com/sanket9006/HACKJAIPUR/blob/master/Screenshots/OS.JPG)">
+</p>
+
+
 
 ## <p align="center"> ......</p>
 
