@@ -1,4 +1,4 @@
-> This repository contains the submission for HACKJAIPUR
+> This  repository contains the submission for HACKJAIPUR
 
 ## <p align="center"> THEME  :- Remotely Working</p>
 ## <p align="center">Project Title : - Helping employee work from home via AWS EC2 Service</p>
